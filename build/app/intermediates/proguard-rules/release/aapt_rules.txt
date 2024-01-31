@@ -1,0 +1,6 @@
+# Referenced at /Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class android.app.Application { <init>(); }
+# Referenced at /Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:25
+-keep class com.example.align_ai.MainActivity { <init>(); }

@@ -1,0 +1,4 @@
+#Wed Nov 01 23:09:34 IST 2023
+base.0=/Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

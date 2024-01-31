@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/tflite/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/akshatkhair/.gradle/caches/transforms-2/files-2.1/049f1b98e04d5c9b624b7c4ee014075f/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/tflite/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/akshatkhair/.gradle/caches/transforms-2/files-2.1/049f1b98e04d5c9b624b7c4ee014075f/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/tflite/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/akshatkhair/.gradle/caches/transforms-2/files-2.1/049f1b98e04d5c9b624b7c4ee014075f/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/akshatkhair/Documents/Projects/Samiksha/AlignAI/build/tflite/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/akshatkhair/.gradle/caches/transforms-2/files-2.1/049f1b98e04d5c9b624b7c4ee014075f/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]
